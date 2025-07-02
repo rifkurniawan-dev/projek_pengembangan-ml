@@ -1,0 +1,16 @@
+
+pandas
+numpy
+re
+nltk
+seaborn
+matplotlib
+emoji
+string
+ipython
+scikit-learn
+imbalanced-learn
+tensorflow
+keras
+pickleshare
+joblib
